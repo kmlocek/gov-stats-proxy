@@ -1,0 +1,12 @@
+gov:
+  base-url: https://api.dane.gov.pl/resources/
+  data-with-paging-url: data?page=1&per_page=100&
+  x-api-version: 1.4
+  resources-id:
+    names-from-2000-to-2019: 21458
+    names-from-2000-to-2020: null
+    girl-names-based-on-voivodeship-in-2019: 21451
+    girl-names-based-on-voivodeship-in-2020: 28028
+    boy-names-based-on-voivodeship-in-2019: 21449
+    boy-names-based-on-voivodeship-in-2020: 28023
+
